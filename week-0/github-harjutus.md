@@ -3,6 +3,8 @@
 ## Isiklik keskkond
 
 ![Isikliku keskkonna ekraanipilt](isikliku-keskkonna-screenshot.png)
+<img width="2844" height="1456" alt="isikliku-keskkonna-screenshot" src="https://github.com/user-attachments/assets/bff1d882-d706-4e4f-a899-dcf7677016d0" />
+
 
 ## Meeskonnatöö
 
