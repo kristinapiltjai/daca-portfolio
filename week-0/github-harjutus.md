@@ -1,4 +1,4 @@
-"# Week 0 GitHub Harjutus" 
+# Nädal 0 - GitHubi harjutus
 Viide meeskonna tööle
 https://github.com/kristinapiltjai/urbanstyle-Sales-Analytics
 
