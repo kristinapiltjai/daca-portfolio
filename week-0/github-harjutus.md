@@ -31,3 +31,17 @@ Tulemus: Päring tagastas edukalt 1 rea koos tervituse ja praeguse ajatempliga.
 4. Minu Eesmärk DACA Programmis
 Omandada 11 nädala jooksul praktiline andmeanalüütiku oskustepagas (SQL, Python, pandas, Power BI).
 Ehitada avalik GitHub portfoolio 8–10 praktilise projektiga.
+
+# Nädal 0 - GitHubi harjutus
+
+## Isiklik keskkond
+
+![Isikliku keskkonna ekraanipilt](isikliku-keskkonna-screenshot.png)
+
+## Meeskonnatöö
+
+Meeskonna repo:
+https://github.com/kristinapiltjai/urbanstyle-Sales-Analytics
+
+Meeskonna kokkulepe:
+https://github.com/kristinapiltjai/urbanstyle-Sales-Analytics/blob/main/charter.md
