@@ -12,7 +12,6 @@ https://github.com/kristinapiltjai/urbanstyle-Sales-Analytics
 Meeskonna kokkulepe:
 https://github.com/kristinapiltjai/urbanstyle-Sales-Analytics/blob/main/charter.md
 
-"# Week 0 GitHub Harjutus" 
 # DACA Nädala 0: GitHubi ja Töökeskkonna Harjutus
 
 **Nimi:** Kristina Piltjai  
