@@ -32,7 +32,7 @@ Tulemus: Päring tagastas edukalt 1 rea koos tervituse ja praeguse ajatempliga.
 Omandada 11 nädala jooksul praktiline andmeanalüütiku oskustepagas (SQL, Python, pandas, Power BI).
 Ehitada avalik GitHub portfoolio 8–10 praktilise projektiga.
 
-# Nädal 0 - GitHubi harjutus
+"# Nädal 0 - GitHubi harjutus"
 
 ## Isiklik keskkond
 
