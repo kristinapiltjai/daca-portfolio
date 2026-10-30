@@ -36,3 +36,9 @@ Selle projekti eesmärk on pakkuda UrbanStyle'i operatsioonijuht Liis Koppelile 
   > *"Liis, müügitulust moodustab suurima osa Tallinn ja füüsilistest kauplustest samuti Tallinn. Tartu ja Pärnu poed annavad stabiilse panuse, kuid e-pood on meie peamine müügivedur."*
 * **Laoseisude jaotus ja varude tervis:**
   > *"Puhastatud andmete põhjal näeme, et laoseisud on kõigis kategooriates piisavad ning kriitilisi laopuudujääke ei esine — madalaima kategooria laoseis on samuti turvalises vahemikus."*
+
+  ## 🤖 AI Kasutamine ja Õpikogemus
+
+Power BI kasutamine oli üldiselt intuitiivne ja lihtsasti omandatav, kuid alguses tekitas veidi segadust väljade õige paigutus telgedele (näiteks milline väli läheb X- ja milline Y-teljele) ning spetsiifiliste seadete ülesleidmine liideses. Kasutasin tehisintellekti (AI) õpiabilisena, et saada täpseid samm-sammulisi juhiseid:
+- Kuidas seadistada **suhtelist kuupäevafiltrit** (*Relative date*) aegunud kirjete eemaldamiseks.
+- Kust leida **tingimusliku vormindamise** (*Conditional formatting*) menüüd ja kuidas seadistada reegleid tulpade värvimiseks.
