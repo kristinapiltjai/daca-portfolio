@@ -1,1 +1,0 @@
-Tutvusin materjalidega ning elasin koolituse esimesse nädalasse sisse.
